@@ -1,0 +1,1 @@
+run('Wordle_practice.m')
